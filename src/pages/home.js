@@ -16,6 +16,9 @@ function Home() {
             Tagline: Making life easier for everyone. Together. </p>
         </div>
         </div>
+        <div className="quote">
+          <p>"There is nothing impossible to they who will try." —Alexander the Great</p>
+        </div>
       </div>
     );
   }
