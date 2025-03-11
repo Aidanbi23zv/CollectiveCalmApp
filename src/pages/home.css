@@ -1,0 +1,12 @@
+.home_container{
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+}
+
+.login{
+    text-decoration: underline;
+    align-self: flex-end;
+    padding: 10px;
+    font-size: 60px;
+}
